@@ -1,27 +1,33 @@
-# Todo
+# NGBoiler
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
+A simple boilerplate for building Angular apps.
 
-## Development server
+## Why
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+To let me focus on creating high-quality code than time-consuming DX features.
 
-## Code scaffolding
+# Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Version Control
+  - **Commitlint** and **Commitizen**: For commit control in repo
+  - **Husky**: Git Hooks
+- Code Quality
+  - **Prettier** as formatter and **ESLint** as linter
+  - Tests with disabled watching
 
-## Build
+## Getting Started
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+This is how to use this boilerplate
 
-## Running unit tests
+### Way I recommend
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+**Clicking "Use As Template button on GitHub"**, to setup your own repo, rather than degitting or cloning it.
 
-## Running end-to-end tests
+## To Do
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Your tasks list after cloning this template
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- [] Rename `LICENSE` file
+- [] If you have open-source project, setup `CONTRIBUTING.md`
+- [] Edit `README.md`
+- [] Edit `package.json`

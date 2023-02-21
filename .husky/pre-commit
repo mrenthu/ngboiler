@@ -3,4 +3,5 @@
 
 
 npx pretty-quick --staged
-ng lint
+npm run test
+npm run lint
